@@ -203,6 +203,7 @@ namespace EjercicioASP2.Dominio
 
         #endregion
 
+
         #region VENTAS Emitir y Devolución
         public List<Ventas> ListaVentas()
         {
